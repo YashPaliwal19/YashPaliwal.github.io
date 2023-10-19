@@ -6,6 +6,4 @@ logo: /assets/img/LinkedinSummary.jpeg
 description: Minimal is a theme for GitHub Pages.
 show_downloads: false
 google_analytics:
-url: 'https://yashpaliwal19.github.io/' # your main domain
-baseurl: 'PythonFunctionLibrary/' # if you're using custom domain keep this blank example: baseurl: ''
 theme: jekyll-theme-minimal
