@@ -18,8 +18,8 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
 <!--![Left Image](/movies/robot_camera_view.gif) ![Right Image](/movies/robot_view.gif)-->
 
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="300" height="200">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="500" height="200">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="100">
+  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="100">
 </div>
 
 
