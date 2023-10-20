@@ -34,6 +34,12 @@ Implemented and analyzed the performance of the Q-learning and True Online SARSA
 #### AI Virtual Mouse [GitHub Link](https://github.com/YashPaliwal19/AI-Virtual_mouse)
 Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS. Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
 
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/img/moving_mode.png" alt="" width="100" height="100">
+  <img src="/assets/img/click_mode1.png" alt="" width="100" height="100">
+  <img src="/assets/img/click_mode2.png" alt="" width="100" height="100">
+</div>
+
 #### Six-Axis Robot Arm [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
