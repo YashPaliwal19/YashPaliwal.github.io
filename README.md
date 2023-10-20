@@ -43,6 +43,12 @@ Built a computer vision module for mouse and keyboard control via hand gestures 
 #### Six-Axis Robot Arm [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/img/mani1.png" alt="" width="100" height="100">
+  <img src="/movies/robot_arm.gif" alt="" width="100" height="100">
+  <img src="/assets/img/mani2.png" alt="" width="150" height="100">
+</div>
+
 #### 
 ## Technical Skills
 
