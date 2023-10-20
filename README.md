@@ -25,6 +25,7 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
 #### Object 6D Pose Estimation [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
 
+* * *
 
 #### Reinforcement learning PACMAN agent [GitHub Link](https://github.com/hssahdev/AI_Team_Project)
 Implemented and analyzed the performance of the Q-learning and True Online SARSA algorithm in PACMAN game over 100 iterations on randomly generated maps.
@@ -32,6 +33,8 @@ Implemented and analyzed the performance of the Q-learning and True Online SARSA
 <div style="display: flex; justify-content: center;">
   <img src="/movies/pacman_gif.gif" alt="Robot View" width="250" height="100">
 </div>
+
+* * *
 
 #### AI Virtual Mouse [GitHub Link](https://github.com/YashPaliwal19/AI-Virtual_mouse)
 Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS. Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
@@ -42,6 +45,8 @@ Built a computer vision module for mouse and keyboard control via hand gestures 
   <img src="/assets/img/click_mode2.png" alt="" width="100" height="100">
 </div>
 
+* * *
+
 #### Six-Axis Robot Arm [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
@@ -51,8 +56,11 @@ Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo 
   <img src="/assets/img/mani2.png" alt="" width="150" height="100">
 </div>
 
+* * *
+
 #### 
 ## Technical Skills
+
 
 ## Publications
 - Baharisangari, N., **Paliwal, Y.**, Xu, Z. "Counterfactually-Guided Causal Reinforcement Learning with Reward Machines" Submitted to the **American Control Conference (ACC), 2024**.
