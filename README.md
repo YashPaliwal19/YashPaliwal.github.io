@@ -14,9 +14,18 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
   <img src="/assets/img/cfrl_final.png" alt="" width="100" height="100">
 </div>
 
+* * *
+
 **Machine Learning Intern @ Simhatel Technologies (_October 2021_ - _March 2022_)**
 - Developed a Mask RCNN-based semantic segmentation model for detection of flat and slanted regions of the berm and achieved 91% accuracy with an inference speed of 1.28 seconds.
 - Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
+
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/img/intern_robot_image.png" alt="" width="100" height="100">
+  <img src="/assets/img/intern_segmented.png" alt="" width="100" height="100">
+  <img src="/assets/img/intern_base.png" alt="" width="100" height="100">
+  <img src="/assets/img/intern_depth.png" alt="" width="100" height="100">
+</div>
 
 ## Academic Projects
 #### TennisBot [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
