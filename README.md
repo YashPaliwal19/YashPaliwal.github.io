@@ -9,9 +9,9 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Created 3 OpenAI GYM compatible simulation environments.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/causal_final.png" alt="" width="100" height="100">
-  <img src="/assets/img/marl_final.png" alt="" width="100" height="100">
-  <img src="/assets/img/cfrl_final.png" alt="" width="100" height="100">
+  <img src="/assets/img/causal_final.png" alt="" width="100" height="200">
+  <img src="/assets/img/marl_final.png" alt="" width="100" height="200">
+  <img src="/assets/img/cfrl_final.png" alt="" width="100" height="200">
 </div>
 
 * * *
@@ -39,6 +39,10 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
 
 #### Object 6D Pose Estimation [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
+
+<div style="display: flex; justify-content: center;">
+  <img src="/assets/img/pose_estimation.png" alt="Robot View" width="250" height="100">
+</div>
 
 * * *
 
