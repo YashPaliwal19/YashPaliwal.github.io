@@ -1,5 +1,5 @@
 ## About
-Enthusiastic master’s student with 1+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
+Enthusiastic master’s student with 2+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
 
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
@@ -19,6 +19,8 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
   <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="100">
   <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="100">
 </div>
+
+<img src="/movies/robot_view.gif" alt="Robot View" width="150" height="100">
 
 * * *
 
