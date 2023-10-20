@@ -20,6 +20,8 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
   <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="100">
 </div>
 
+* * *
+
 #### Object 6D Pose Estimation [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
 
