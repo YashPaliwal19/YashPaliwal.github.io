@@ -9,9 +9,9 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Created 3 OpenAI GYM compatible simulation environments.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/causal_final.png" alt="" width="150" height="300">
-  <img src="/assets/img/marl_final.png" alt="" width="150" height="300">
-  <img src="/assets/img/cfrl_final.png" alt="" width="150" height="300">
+  <img src="/assets/img/causal_final.png" alt="" width="200" height="300">
+  <img src="/assets/img/marl_final.png" alt="" width="200" height="300">
+  <img src="/assets/img/cfrl_final.png" alt="" width="200" height="300">
 </div>
 
 * * *
