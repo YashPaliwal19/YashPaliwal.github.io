@@ -16,8 +16,8 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 #### TennisBot [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
 Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="300">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="300">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="200" height="300">
+  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="350" height="300">
 </div>
 
 * * *
