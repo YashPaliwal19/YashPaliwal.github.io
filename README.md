@@ -21,7 +21,11 @@ Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nan
   <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="100">
   <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="100">
 </div>
-</br>
+
+
+
+
+
 
 
 #### Object 6D Pose Estimation [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
