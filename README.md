@@ -32,23 +32,24 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
 
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: center;">
-    <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150" style="margin-right: 50px;">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150">
     <p><em>Fig 2(a): Robot's<br>Image</em></p>
   </div>
-    <div style="text-align: center;">
-    <img src="/assets/img/intern_base.png" alt="" width="150" height="150" style="margin-right: 50px;">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/intern_base.png" alt="" width="150" height="150">
     <p><em>Fig 2(b): Original<br>Image</em></p>
   </div>
-  <div style="text-align: center;">
-    <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150" style="margin-right: 50px;">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150">
     <p><em>Fig 2(c): Segmented<br>Image</em></p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/intern_depth.png" alt="" width="150" height="150" style="margin-right: 50px;">
+    <img src="/assets/img/intern_depth.png" alt="" width="150" height="150">
     <p><em>Fig 2(d): Depth Map</em></p>
   </div>
 </div>
+
 
 
 * * *
@@ -60,9 +61,16 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 - Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="200">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="400" height="200">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/movies/robot_view.gif" alt="Demonstration" width="150" height="200">
+    <p><em>Fig 3(a): Demonstration</em></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="400" height="200">
+    <p><em>Fig 3(b): Robot's Camera View</em></p>
+  </div>
 </div>
+
 
 * * *
 
