@@ -2,7 +2,7 @@
 Enthusiastic master’s student with 2+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
 
 ## Education
-- M.S., Robotics and Artificial Intelligence | Arizona State University (_August 2022_ - _Present_)
+- M.S., Robotics and Artificial Intelligence             | Arizona State University (_August 2022_ - _Present_)
 - B.S., Major: Mechanical Engineering, Minor: Management | Indian Institute of Technology Mandi (_August 2017_ - _May 2021_) 
 
 
@@ -20,7 +20,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 </div>
 -->
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/research_hori.png" alt="Robot View" width="650" height="350">
+  <img src="/assets/img/research_hori.png" alt="Robot View" width="550" height="350">
 </div>
 
 * * *
@@ -45,8 +45,8 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 - Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="250" height="200">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="300" height="200">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="150" height="200">
+  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="400" height="200">
 </div>
 
 * * *
@@ -70,7 +70,8 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 * * *
 
 **AI Virtual Mouse** [[GitHub Link]](https://github.com/YashPaliwal19/AI-Virtual_mouse)
-Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS. Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
+- Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS.
+- Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/moving_mode.png" alt="" width="200" height="200">
@@ -81,7 +82,7 @@ Built a computer vision module for mouse and keyboard control via hand gestures 
 * * *
 
 **Six-Axis Robot Arm** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
-Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
+- Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/mani1.png" alt="" width="200" height="200">
