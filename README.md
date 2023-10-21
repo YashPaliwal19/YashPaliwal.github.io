@@ -2,9 +2,16 @@
 Enthusiastic master’s student with 2+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
 
 ## Education
-- M.S., Robotics and Artificial Intelligence             | Arizona State University (_August 2022_ - _Present_)
-- B.S., Major: Mechanical Engineering, Minor: Management | Indian Institute of Technology Mandi (_August 2017_ - _May 2021_) 
-
+<table>
+  <tr>
+    <td>&#8226; M.S., Robotics and Artificial Intelligence</td>
+    <td>Arizona State University (<em>August 2022 - Present</em>)</td>
+  </tr>
+  <tr>
+    <td>&#8226; B.S., Major: Mechanical Engineering, Minor: Management</td>
+    <td>Indian Institute of Technology Mandi (<em>August 2017 - May 2021</em>)</td>
+  </tr>
+</table>
 
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
