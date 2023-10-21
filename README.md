@@ -20,7 +20,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 </div>
 -->
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/research_hori.png" alt="Robot View" width="700" height="350">
+  <img src="/assets/img/research_hori.png" alt="Robot View" width="650" height="350">
 </div>
 
 * * *
@@ -45,8 +45,8 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 - Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="300" height="200">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="200">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="250" height="200">
+  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="300" height="200">
 </div>
 
 * * *
@@ -55,7 +55,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/pose_estimation.png" alt="" width="250" height="200">
+  <img src="/assets/img/pose_estimation.png" alt="" width="450" height="200">
 </div>
 
 * * *
@@ -64,7 +64,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Implemented and analyzed the performance of the Q-learning and True Online SARSA algorithm in PACMAN game over 100 iterations on randomly generated maps.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/pacman_gif.gif" alt="Robot View" width="250" height="100">
+  <img src="/movies/pacman_gif.gif" alt="Robot View" width="450" height="200">
 </div>
 
 * * *
@@ -73,9 +73,9 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS. Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/moving_mode.png" alt="" width="100" height="100">
-  <img src="/assets/img/click_mode1.png" alt="" width="100" height="100">
-  <img src="/assets/img/click_mode2.png" alt="" width="100" height="100">
+  <img src="/assets/img/moving_mode.png" alt="" width="200" height="200">
+  <img src="/assets/img/click_mode1.png" alt="" width="200" height="200">
+  <img src="/assets/img/click_mode2.png" alt="" width="200" height="200">
 </div>
 
 * * *
@@ -84,9 +84,9 @@ Built a computer vision module for mouse and keyboard control via hand gestures 
 Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/mani1.png" alt="" width="100" height="100">
-  <img src="/movies/robot_arm.gif" alt="" width="100" height="100">
-  <img src="/assets/img/mani2.png" alt="" width="150" height="100">
+  <img src="/assets/img/mani1.png" alt="" width="200" height="200">
+  <img src="/movies/robot_arm.gif" alt="" width="200" height="200">
+  <img src="/assets/img/mani2.png" alt="" width="300" height="200">
 </div>
 
 * * *
