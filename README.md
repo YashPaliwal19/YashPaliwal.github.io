@@ -1,6 +1,11 @@
 ## About
 Enthusiastic master’s student with 2+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
 
+## Education
+- M.S., Robotics and Artificial Intelligence | Arizona State University (_August 2022_ - _Present_)
+- B.S., Major: Mechanical Engineering, Minor: Management | Indian Institute of Technology Mandi (_August 2017_ - _May 2021_) 
+
+
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
 - Working on offline reinforcement learning (RL) algorithm using decision transformer in non-markovian setting.
@@ -15,7 +20,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 </div>
 -->
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/research_hori.png" alt="Robot View" width="1200" height="400">
+  <img src="/assets/img/research_hori.png" alt="Robot View" width="900" height="350">
 </div>
 
 * * *
@@ -25,26 +30,29 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/intern_robot_image.png" alt="" width="100" height="100">
-  <img src="/assets/img/intern_segmented.png" alt="" width="100" height="100">
-  <img src="/assets/img/intern_base.png" alt="" width="100" height="100">
-  <img src="/assets/img/intern_depth.png" alt="" width="100" height="100">
+  <img src="/assets/img/intern_robot_image.png" alt="" width="200" height="200">
+  <img src="/assets/img/intern_segmented.png" alt="" width="200" height="200">
+  <img src="/assets/img/intern_base.png" alt="" width="200" height="200">
+  <img src="/assets/img/intern_depth.png" alt="" width="200" height="200">
 </div>
+
+* * *
+## Technical Skills
 
 * * *
 
 ## Academic Projects
-#### TennisBot [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
-Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
+**TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
+- Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="200" height="300">
-  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="350" height="300">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="200" height="200">
+  <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="200">
 </div>
 
 * * *
 
-#### Object 6D Pose Estimation [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
-Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
+**Object 6D Pose Estimation** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
+- Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/pose_estimation.png" alt="Robot View" width="250" height="100">
@@ -52,8 +60,8 @@ Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGB
 
 * * *
 
-#### Reinforcement learning PACMAN agent [GitHub Link](https://github.com/hssahdev/AI_Team_Project)
-Implemented and analyzed the performance of the Q-learning and True Online SARSA algorithm in PACMAN game over 100 iterations on randomly generated maps.
+**Reinforcement learning PACMAN agent** [[GitHub Link]](https://github.com/hssahdev/AI_Team_Project)
+- Implemented and analyzed the performance of the Q-learning and True Online SARSA algorithm in PACMAN game over 100 iterations on randomly generated maps.
 
 <div style="display: flex; justify-content: center;">
   <img src="/movies/pacman_gif.gif" alt="Robot View" width="250" height="100">
@@ -61,7 +69,7 @@ Implemented and analyzed the performance of the Q-learning and True Online SARSA
 
 * * *
 
-#### AI Virtual Mouse [GitHub Link](https://github.com/YashPaliwal19/AI-Virtual_mouse)
+**AI Virtual Mouse** [[GitHub Link]](https://github.com/YashPaliwal19/AI-Virtual_mouse)
 Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS. Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
 
 <div style="display: flex; justify-content: center;">
@@ -72,7 +80,7 @@ Built a computer vision module for mouse and keyboard control via hand gestures 
 
 * * *
 
-#### Six-Axis Robot Arm [GitHub Link](https://github.com/YashPaliwal19/TennisBot)
+**Six-Axis Robot Arm** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
 <div style="display: flex; justify-content: center;">
@@ -83,18 +91,11 @@ Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo 
 
 * * *
 
-#### 
-## Technical Skills
-
-
 ## Publications
 - Baharisangari, N., **Paliwal, Y.**, Xu, Z. "Counterfactually-Guided Causal Reinforcement Learning with Reward Machines" Submitted to the **American Control Conference (ACC), 2024**.
 - Hu, J., **Paliwal, Y.**, Xu, Z. "Joint Inference of Reward Machines and Policies for Multi-Agent Reinforcement Learning in Non-Cooperative Stochastic Games" Submitted to the **Association for the Advancement of Artificial Intelligence (AAAI), 2024**.
 - **Paliwal, Y.**, Roy, R., Gaglione, J.-R., Baharisangari, N., Neider, D., Duan, X., Topcu, U., Xu, Z. "Reinforcement Learning with Temporal-Logic-Based Causal Diagrams." Accepted to the **International Cross-Domain Conference for Machine Learning and Knowledge Extraction (CD-MAKE), 2023**.
 
-## Education
-- M.S., Robotics and Artificial Intelligence | Arizona State University (_August 2022_ - _Present_)
-- B.S., Major: Mechanical Engineering, Minor: Management | Indian Institute of Technology Mandi (_August 2017_ - _May 2021_) 
 
 
 
