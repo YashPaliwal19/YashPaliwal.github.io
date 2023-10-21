@@ -33,19 +33,19 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;">
-    <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150">
-    <p><em>Fig 2(a): Robot Image</em></p>
+    <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150" style="margin-right: 50px;">
+    <p><em>Fig 2(a): Robot's<br>Image</em></p>
   </div>
     <div style="text-align: center;">
-    <img src="/assets/img/intern_base.png" alt="" width="150" height="150">
-    <p><em>Fig 2(b): Original Image</em></p>
+    <img src="/assets/img/intern_base.png" alt="" width="150" height="150" style="margin-right: 50px;">
+    <p><em>Fig 2(b): Original<br>Image</em></p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150">
-    <p><em>Fig 2(c): Segmented Image</em></p>
+    <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150" style="margin-right: 50px;">
+    <p><em>Fig 2(c): Segmented<br>Image</em></p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/intern_depth.png" alt="" width="150" height="150">
+    <img src="/assets/img/intern_depth.png" alt="" width="150" height="150" style="margin-right: 50px;">
     <p><em>Fig 2(d): Depth Map</em></p>
   </div>
 </div>
