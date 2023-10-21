@@ -97,10 +97,18 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/moving_mode.png" alt="" width="200" height="200">
-  <img src="/assets/img/click_mode1.png" alt="" width="200" height="200">
-  <img src="/assets/img/click_mode2.png" alt="" width="200" height="200">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/moving_mode.png" alt="" width="200" height="200">
+  </div>
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/click_mode1.png" alt="" width="200" height="200">
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/click_mode2.png" alt="" width="200" height="200">
+  </div>
 </div>
+<p style="text-align: center;"><em>Fig 6: Virtual Mouse Control Demo</em></p>
+
 
 * * *
 
