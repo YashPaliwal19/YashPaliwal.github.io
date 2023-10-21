@@ -20,7 +20,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 </div>
 -->
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/research_hori.png" alt="Robot View" width="900" height="350">
+  <img src="/assets/img/research_hori.png" alt="Robot View" width="700" height="350">
 </div>
 
 * * *
@@ -30,10 +30,10 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/intern_robot_image.png" alt="" width="200" height="200">
-  <img src="/assets/img/intern_segmented.png" alt="" width="200" height="200">
-  <img src="/assets/img/intern_base.png" alt="" width="200" height="200">
-  <img src="/assets/img/intern_depth.png" alt="" width="200" height="200">
+  <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150">
+  <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150">
+  <img src="/assets/img/intern_base.png" alt="" width="150" height="150">
+  <img src="/assets/img/intern_depth.png" alt="" width="150" height="150">
 </div>
 
 * * *
@@ -45,7 +45,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 - Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
 <div style="display: flex; justify-content: center;">
-  <img src="/movies/robot_view.gif" alt="Robot View" width="200" height="200">
+  <img src="/movies/robot_view.gif" alt="Robot View" width="300" height="200">
   <img src="/movies/robot_camera_view.gif" alt="Robot Camera View" width="250" height="200">
 </div>
 
@@ -55,7 +55,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/pose_estimation.png" alt="Robot View" width="250" height="100">
+  <img src="/assets/img/pose_estimation.png" alt="" width="250" height="200">
 </div>
 
 * * *
