@@ -20,15 +20,10 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Designed a novel RL algorithm that utilize causal information and outperforms traditional approaches by 5 fold.
 - Created 3 OpenAI GYM compatible simulation environments.
 
-<!--<div style="display: flex; justify-content: center;">
-  <img src="/assets/img/causal_final.png" alt="" width="400" height="300">
-  <img src="/assets/img/marl_final.png" alt="" width="400" height="300">
-  <img src="/assets/img/cfrl_final.png" alt="" width="400" height="300">
-</div>
--->
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/research_hori.png" alt="Robot View" width="550" height="350">
+  <img src="/assets/img/research_hori.png" alt="Research Overview" width="550" height="350">
 </div>
+<p style="text-align: center;"><em>Fig: Research Overview</em></p>
 
 * * *
 
