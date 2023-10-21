@@ -23,7 +23,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/research_hori.png" alt="Research Overview" width="550" height="350">
 </div>
-<p style="text-align: center;"><em>Fig: Research Overview</em></p>
+<p style="text-align: center;"><em>Fig 1: Research Overview</em></p>
 
 * * *
 
@@ -32,11 +32,24 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 - Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150">
-  <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150">
-  <img src="/assets/img/intern_base.png" alt="" width="150" height="150">
-  <img src="/assets/img/intern_depth.png" alt="" width="150" height="150">
+  <div style="text-align: center;">
+    <img src="/assets/img/intern_robot_image.png" alt="" width="150" height="150">
+    <p>Image 1</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/intern_segmented.png" alt="" width="150" height="150">
+    <p>Image 2</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/intern_base.png" alt="" width="150" height="150">
+    <p>Image 3</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/intern_depth.png" alt="" width="150" height="150">
+    <p>Image 4</p>
+  </div>
 </div>
+
 
 * * *
 ## Technical Skills
