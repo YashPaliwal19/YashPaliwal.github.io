@@ -1,5 +1,5 @@
 ## About
-Enthusiastic master’s student with 2+ years of research experience in the field of artificial intelligence and robotics. Proficient in PyTorch, Python, OpenCV, and AWS. Seeking full-time opportunities for summer 2024.
+Enthusiastic master’s student with **2+ years** of research experience in the field of **artificial intelligence** and **robotics**. Proficient in **PyTorch, Python, OpenCV, and AWS**. Seeking **full-time** opportunities for **spring 2024** and open to **relocation**.
 
 ## Education
 <table>
@@ -15,10 +15,10 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
-- Working on offline reinforcement learning (RL) algorithm using decision transformer in non-markovian setting.
-- Devised a novel multi-agent RL algorithm that converges 10 times faster than state of art methods in Stochastic game setting.
-- Designed a novel RL algorithm that utilize causal information and outperforms traditional approaches by 5 fold.
-- Created 3 OpenAI GYM compatible simulation environments.
+- Working on **offline reinforcement learning (RL)** algorithm using **decision transformer** in **non-markovian** setting.
+- Devised a novel **multi-agent RL** algorithm that converges **10 times** faster than state of art methods in **Stochastic game** setting.
+- Designed a novel RL algorithm that utilize **causal information** and outperforms traditional approaches by **5 fold**.
+- Created **3 OpenAI GYM** compatible simulation environments.
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/research_hori.png" alt="Research Overview" width="550" height="350">
@@ -28,8 +28,8 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 * * *
 
 **Machine Learning Intern @ Simhatel Technologies (_October 2021_ - _March 2022_)**
-- Developed a Mask RCNN-based semantic segmentation model for detection of flat and slanted regions of the berm and achieved 91% accuracy with an inference speed of 1.28 seconds.
-- Generated depth maps of input monocular images using the MiDaS CNN model with an accuracy of 83%.
+- Developed a **Mask RCNN**-based semantic segmentation model for detection of flat and slanted regions of the berm and achieved **91% accuracy** with an inference speed of **1.28 seconds**.
+- Generated **depth maps** of input monocular images using the **MiDaS CNN** model with an accuracy of **83%**.
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 50px;">
@@ -59,7 +59,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 
 ## Academic Projects
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
-- Prototyped an autonomous robot for tennis ball collection. Trained an YOLOv8 nano model on custom dataset of 600 images, to detect tennis balls location with an accuracy of 98% and operating at a speed of 1 FPS.
+- Prototyped an **autonomous robot** for tennis ball collection. Trained an **YOLOv8** nano model on custom dataset of **600 images**, to detect tennis balls location with an accuracy of **98%** and operating at a speed of **1 FPS**.
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 50px;">
     <img src="/movies/robot_view.gif" alt="Demonstration" width="150" height="200">
@@ -75,7 +75,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 * * *
 
 **Object 6D Pose Estimation** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
-- Implemented PVN3D algorithm in docker to detect 6D pose of an object using a RGBD image. Improve the accuracy of the algorithm by 2% by modifying the loss function and using the ResNet-101 network.
+- Implemented **PVN3D** algorithm in **docker** to detect **6D pose** of an object using a **RGBD image**. Improve the accuracy of the algorithm by **2%** by modifying the loss function and using the **ResNet-101 network**.
 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/pose_estimation.png" alt="" width="450" height="200">
@@ -84,7 +84,7 @@ Enthusiastic master’s student with 2+ years of research experience in the fiel
 * * *
 
 **Reinforcement learning PACMAN agent** [[GitHub Link]](https://github.com/hssahdev/AI_Team_Project)
-- Implemented and analyzed the performance of the Q-learning and True Online SARSA algorithm in PACMAN game over 100 iterations on randomly generated maps.
+- Implemented and analyzed the performance of the **Q-learning** and **True Online SARSA algorithm** in **PACMAN game** over **100 iterations** on randomly generated maps.
 
 <div style="display: flex; justify-content: center;">
   <img src="/movies/pacman_gif.gif" alt="Robot View" width="450" height="200">
