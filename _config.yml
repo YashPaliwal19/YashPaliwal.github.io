@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Portfolio
 description: >
-  Reach out to me: <img src="/assets/img/gmail_logo.png" alt="gmail" style="width: 35px; height: auto;"/> paliwalyash987@gmail.com |<img src="/assets/img/github_logo.png" alt="Octocat" style="width: 35px; height: auto;"/> https://github.com/YashPaliwal19 |<img src="/assets/img/linkedin_logo.png" alt="LinkedIn" style="width: 35px; height: auto;"/> www.linkedin.com/in/yashpaliwal19
-
+  Reach out to me: paliwalyash987@gmail.com | [Github Link](https://github.com/YashPaliwal19) | [LinkedIn Link](www.linkedin.com/in/yashpaliwal19)
+#<img src="/assets/img/github_logo.png" alt="Octocat" style="width: 35px; height: auto;"/> [Link to another page](./another-page.html)
 show_downloads: false
 google_analytics:
