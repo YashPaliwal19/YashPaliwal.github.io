@@ -62,6 +62,7 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 * **Programming Languages :** Python, C++, MATLAB, SQL.
 * **Software and Frameworks :** PyTorch, R.O.S., OpenAI GYM, OpenCV, Django, AWS, Docker, REST APIs, PySpark, Simulink, SolidWorks, ANSYS, Git, Linux.
 * **Embedded Hardware :** Raspberry Pi, Arduino.
+
 * * *
 
 ## Projects
