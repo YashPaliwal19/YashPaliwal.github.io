@@ -1,3 +1,5 @@
+HI This is yash 
+
 ## About
 Enthusiastic master’s student with **2+ years** of research experience in the field of **artificial intelligence** and **robotics**. Proficient in **PyTorch, Python, OpenCV, and AWS**. Seeking **full-time** opportunities for **spring 2024** and open to **relocation**.
 
