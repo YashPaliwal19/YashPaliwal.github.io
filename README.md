@@ -1,18 +1,6 @@
 ## About
 Enthusiastic master’s student with **2+ years** of research experience in the field of **artificial intelligence** and **robotics**. Proficient in **PyTorch, Python, OpenCV, and AWS**. Seeking **full-time** opportunities for **spring 2024** and open to **relocation**.
 
-## Education
-<table>
-  <tr>
-    <td>&#8226; M.S., Robotics and Artificial Intelligence</td>
-    <td>Arizona State University (<em>August 2022 - Present</em>)</td>
-  </tr>
-  <tr>
-    <td>&#8226; B.S., Major: Mechanical Engineering, Minor: Management</td>
-    <td>Indian Institute of Technology Mandi (<em>August 2017 - May 2021</em>)</td>
-  </tr>
-</table>
-
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
 - Working on **offline reinforcement learning (RL)** algorithm using **decision transformer** in **non-markovian** setting.
@@ -50,7 +38,19 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
   </div>
 </div>
 
+* * *
 
+## Education
+<table>
+  <tr>
+    <td>&#8226; M.S., Robotics and Artificial Intelligence</td>
+    <td>Arizona State University (<em>August 2022 - Present</em>)</td>
+  </tr>
+  <tr>
+    <td>&#8226; B.S., Major: Mechanical Engineering, Minor: Management</td>
+    <td>Indian Institute of Technology Mandi (<em>August 2017 - May 2021</em>)</td>
+  </tr>
+</table>
 
 * * *
 ## Technical Skills
