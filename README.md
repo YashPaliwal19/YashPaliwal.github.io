@@ -1,3 +1,5 @@
+## Portfolio
+
 ## About
 Enthusiastic master’s student with **2+ years** of research experience in the field of **artificial intelligence** and **robotics**. Proficient in **PyTorch, Python, OpenCV, and AWS**. Seeking **full-time** opportunities for **spring 2024** and open to **relocation**.
 
@@ -80,6 +82,7 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 <div style="display: flex; justify-content: center;">
   <img src="/assets/img/pose_estimation.png" alt="" width="450" height="200">
 </div>
+<p style="text-align: center;"><em>Fig 4: </em></p>
 
 * * *
 
@@ -89,6 +92,7 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 <div style="display: flex; justify-content: center;">
   <img src="/movies/pacman_gif.gif" alt="Robot View" width="450" height="200">
 </div>
+<p style="text-align: center;"><em>Fig 6: Virtual Mouse Control Demo</em></p>
 
 * * *
 
