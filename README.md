@@ -80,9 +80,15 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 - Implemented **PVN3D** algorithm in **docker** to detect **6D pose** of an object using a **RGBD image**. Improve the accuracy of the algorithm by **2%** by modifying the loss function and using the **ResNet-101 network**.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/pose_estimation.png" alt="" width="450" height="200">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/pose_estimation_input.png" alt="Demonstration" width="300" height="200">
+    <p><em>Fig 4(a): Input RGBD Image</em></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/pose_estimation_output.png" alt="Robot Camera View" width="300" height="200">
+    <p><em>Fig 4(b): Output Image</em></p>
+  </div>
 </div>
-<p style="text-align: center;"><em>Fig 4: </em></p>
 
 * * *
 
@@ -92,7 +98,7 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 <div style="display: flex; justify-content: center;">
   <img src="/movies/pacman_gif.gif" alt="Robot View" width="450" height="200">
 </div>
-<p style="text-align: center;"><em>Fig 6: Virtual Mouse Control Demo</em></p>
+<p style="text-align: center;"><em>Fig 5: Trained Pacman Agent Demo</em></p>
 
 * * *
 
@@ -120,11 +126,18 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 - Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/img/mani1.png" alt="" width="200" height="200">
-  <img src="/movies/robot_arm.gif" alt="" width="200" height="200">
-  <img src="/assets/img/mani2.png" alt="" width="300" height="200">
+  <div style="text-align: center;">
+    <img src="/assets/img/mani1.png" alt="" width="200" height="200">
+  </div>
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="/assets/img/mani2.png" alt="" width="300" height="200">
+  </div>
+  <p><em>Fig 7(a): Robot Images</em></p>
+  <div style="text-align: center;">
+    <img src="/movies/robot_arm.gif" alt="" width="300" height="200">
+    <p><em>Fig 7(b): R.O.S. Simulation</em></p>
+  </div>
 </div>
-
 * * *
 
 ## Publications
