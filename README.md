@@ -4,6 +4,8 @@
 ## About
 Enthusiastic master’s student with **2+ years** of research experience in the field of **artificial intelligence** and **robotics**. Proficient in **PyTorch, Python, OpenCV, and AWS**. Seeking **full-time** opportunities for **spring 2024** and open to **relocation**.
 
+* * *
+
 ## Professional Experience
 **Research Assistant @ Arizona State University (_October 2022_ - _Present_)**
 - Working on **offline reinforcement learning (RL)** algorithm using **decision transformer** in **non-markovian** setting.
@@ -57,10 +59,12 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 
 * * *
 ## Technical Skills
-
+* **Programming Languages :** Python, C++, MATLAB, SQL.
+* **Software and Frameworks :** PyTorch, R.O.S., OpenAI GYM, OpenCV, Django, AWS, Docker, REST APIs, PySpark, Simulink, SolidWorks, ANSYS, Git, Linux.
+* **Embedded Hardware :** Raspberry Pi, Arduino.
 * * *
 
-## Academic Projects
+## Projects
 **TennisBot** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
 - Prototyped an **autonomous robot** for tennis ball collection. Trained an **YOLOv8** nano model on custom dataset of **600 images**, to detect tennis balls location with an accuracy of **98%** and operating at a speed of **1 FPS**.
 <div style="display: flex; justify-content: center;">
@@ -104,8 +108,8 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 * * *
 
 **AI Virtual Mouse** [[GitHub Link]](https://github.com/YashPaliwal19/AI-Virtual_mouse)
-- Built a computer vision module for mouse and keyboard control via hand gestures with an operating speed of 33 FPS.
-- Utilized the MediaPipe framework to track hand joint positions in real-time and assigned 8 mouse and keyboard functions to different gestures.
+- Built a computer vision module for **mouse and keyboard control** via **hand gestures** with an operating speed of **33 FPS**.
+- Utilized the **MediaPipe framework** to track hand joint positions in **real-time** and assigned **8** mouse and keyboard functions to different gestures.
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 50px;">
@@ -124,7 +128,7 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 * * *
 
 **Six-Axis Robot Arm** [[GitHub Link]](https://github.com/YashPaliwal19/TennisBot)
-- Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
+- Designed a 6 D.O.F. serial mainpulator in **SolidWorks** and simulated it in **Gazebo** using **R.O.S.**.
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center;margin-right: 50px;">
