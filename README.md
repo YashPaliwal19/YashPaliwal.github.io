@@ -126,16 +126,17 @@ Enthusiastic master’s student with **2+ years** of research experience in the 
 - Designed a 6 D.O.F. serial mainpulator in SolidWorks and simulated it in Gazebo using R.O.S..
 
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: center;">
+  <div style="text-align: center;margin-right: 50px;">
     <img src="/assets/img/mani1.png" alt="" width="200" height="200">
+     <p><em>Fig 7(a): Robot Front View</em></p>
   </div>
   <div style="text-align: center; margin-right: 50px;">
     <img src="/assets/img/mani2.png" alt="" width="300" height="200">
+    <p><em>Fig 7(b): Robot Side View</em></p>
   </div>
-  <p><em>Fig 7(a): Robot Images</em></p>
   <div style="text-align: center;">
     <img src="/movies/robot_arm.gif" alt="" width="300" height="200">
-    <p><em>Fig 7(b): R.O.S. Simulation</em></p>
+    <p><em>Fig 7(c): R.O.S. Simulation</em></p>
   </div>
 </div>
 * * *
